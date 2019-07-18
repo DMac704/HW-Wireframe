@@ -6,22 +6,16 @@ body {
 }
 
 .header {
+    background-color: #ebebeb;
 
 }
 
 .section {
+    background-color: #ebebeb;
     
 }
 
-#article {
-    background-color: #777;
-    color: #ebebeb;
-}
-
 .h1 {
-   
-}
-
-.color {
     background-color: #ebebeb;
+   
 }
