@@ -7,11 +7,13 @@ body {
 }
 
 .header {
+    width: 960px;
     background-color: #ebebeb;
 
 }
 
 #section {
+    width: 495px;
     background-color: #ebebeb;
     
 }
