@@ -6,28 +6,50 @@ body {
     text-align: center;
 }
 
-.header {
+header {
     width: 960px;
+    margin: auto;
     background-color: #ebebeb;
 
 }
 
-#section {
+nav {
+    width: 960px;
+    margin: auto;
+    background-color: #ebebeb;
+
+}
+
+section {
     width: 495px;
+    margin: auto;
     background-color: #ebebeb;
     
 }
 
-#text {
+text {
     background-color: #777;
     color: #ebebeb;
 }
 
-#aside {
+h1 {
+    background-color: #ebebeb;
+    color: #777;
+}
+
+p {
+    background-color: #ebebeb;
+    color: #777;
+}
+
+aside {
+    width: 465px;
+    margin:auto;
     background-color: #ebebeb;
 }
 
-.h1 {
+footer {
+    width: 960px;
     background-color: #ebebeb;
-    color: #777;
+
 }
