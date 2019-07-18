@@ -6,7 +6,24 @@ body {
     width: 960px;
 }
 
-
 .color {
     background-color: #ebebeb;
+}
+
+.header {
+    display: block;
+    width: 495px;
+    margin: auto;
+}
+
+.section {
+    display: block;
+    width: 246px;
+    margin: 1.5px;
+}
+
+.h1 {
+    display: block;
+    width: 244px;
+    margin: 2px;
 }
