@@ -6,6 +6,10 @@ body {
     width: 960px;
 }
 
+#body {
+    width: 495px;
+}
+
 .class {
     background-color: #ebebeb;
 }
