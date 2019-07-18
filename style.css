@@ -5,13 +5,17 @@ body {
     font-size: 18px;
 }
 
-.header {
+.color {
     background-color: #ebebeb;
+}
+
+.header {
+    
 
 }
 
 .section {
-    background-color: #ebebeb;
+   
     
 }
 
@@ -20,6 +24,6 @@ body {
 }
 
 .h1 {
-    background-color: #ebebeb;
+    
    
 }
