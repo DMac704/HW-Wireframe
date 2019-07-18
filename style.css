@@ -11,16 +11,21 @@ body {
 
 }
 
-.section {
+#section {
     background-color: #ebebeb;
     
 }
 
 #text {
+    background-color: #777;
     color: #ebebeb;
+}
+
+#aside {
+    background-color: #ebebeb;
 }
 
 .h1 {
     background-color: #ebebeb;
-   
+    color: #777;
 }
