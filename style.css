@@ -3,11 +3,6 @@ body {
     background-color: #777;
     color: #777;
     font-size: 18px;
-    width: 960px;
-}
-
-.color {
-    background-color: #ebebeb;
 }
 
 .header {
@@ -22,8 +17,17 @@ body {
     margin: 1.5px;
 }
 
+#article {
+    background-color: #777;
+    color: #ebebeb;
+}
+
 .h1 {
     display: block;
     width: 244px;
     margin: 2px;
+}
+
+.color {
+    background-color: #ebebeb;
 }
