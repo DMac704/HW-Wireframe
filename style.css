@@ -10,7 +10,7 @@ header {
     width: 960px;
     margin: auto;
     overflow: auto;
-    padding: 30px;
+    padding: 25px;
     margin-bottom: 10px;
     margin-top: 10px;
     background-color: #ebebeb;
@@ -21,7 +21,7 @@ nav {
     width: 960px;
     margin: auto;
     overflow: auto;
-    padding: 30px;
+    padding: 25px;
     margin-bottom: 20px;
     background-color: #ebebeb;
 
@@ -34,6 +34,7 @@ section {
     height: 300px;
     margin: auto;
     margin-right: 10px;
+    padding: 9px;
     text-align: center;
     overflow: auto;
     background-color: #ebebeb;
@@ -46,6 +47,7 @@ text {
     bottom: 10%;
     left: 10%;
     right: 10%;
+    padding: 20px;
     margin: auto;
     overflow: auto;
     background-color: #777;
@@ -55,19 +57,29 @@ text {
 h1 {
     background-color: #ebebeb;
     color: #777;
+    padding: 15px;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 
 p {
     background-color: #ebebeb;
     color: #777;
+    padding: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 
 aside {
     display: inline-flex;
-    text-align: center;
+    margin: auto;
     width: 455px;
     height: 300px;
     margin-left: 10px;
+    padding: 9px;
     background-color: #ebebeb;
 }
 
@@ -75,7 +87,7 @@ footer {
     width: 960px;
     margin: auto;
     overflow: auto;
-    padding: 30px;
+    padding: 25px;
     margin-top: 20px;
     background-color: #ebebeb;
 
