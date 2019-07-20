@@ -29,16 +29,24 @@ nav {
 
 section {
     display: inline-flex;
+    position: relative;
     width: 495px;
     height: 300px;
     margin: auto;
     margin-right: 10px;
+    text-align: center;
     overflow: auto;
     background-color: #ebebeb;
     
 }
 
 text {
+    position: absolute;
+    top: 30%;
+    bottom: 10%;
+    left: 10%;
+    right: 10%;
+    margin: auto;
     overflow: auto;
     background-color: #777;
     color: #ebebeb;
@@ -56,7 +64,8 @@ p {
 
 aside {
     display: inline-flex;
-    width: 465px;
+    text-align: center;
+    width: 455px;
     height: 300px;
     margin-left: 10px;
     background-color: #ebebeb;
